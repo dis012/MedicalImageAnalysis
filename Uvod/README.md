@@ -13,3 +13,6 @@ Poravnava CT in FBCT slik za onkološke izzive
 ### Dataset ThoraxCBCT
 Učenje 11 pacientov (11 FBCT in 22 CBCT slik)
 Validacija 3 pacienti (3 FBCT in 6 CBCT slik)
+
+## Kolokviji
+6 ni problem dobit. Za več deli DN. Kolokvij ni programerski. Domače naloge so kot gradivo za dodatno učenje.
